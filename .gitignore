@@ -1,0 +1,6 @@
+build/
+dist/
+docs/modules.rst
+docs/pylib.rst
+*.pyc
+tfliss.github.io.egg-info/
