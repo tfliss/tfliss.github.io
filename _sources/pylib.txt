@@ -1,0 +1,19 @@
+pylib Package
+=============
+
+:mod:`pylib` Package
+--------------------
+
+.. automodule:: pylib.__init__
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+:mod:`app` Module
+-----------------
+
+.. automodule:: pylib.app
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
